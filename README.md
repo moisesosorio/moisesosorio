@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Senior Data & Software Engineer with over 10 years of building analytical processes. My work experience has built in USA, Spain, Peru and Australia.
+
 <!--
 **moisesosorio/moisesosorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
