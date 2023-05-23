@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi 👋, I am Data & Software Engineering 
 
-Senior Data & Software Engineer with over 10 years of building analytical processes. My work experience has built in USA, Spain, Peru and Australia.
+I am Senior Data & Software Engineer with over 12 years of building analytical processes. My work experience has built in USA, Spain, Peru and Australia.
+
+I 
+
+
+Socials
+
 
 <!--
 **moisesosorio/moisesosorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
