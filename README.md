@@ -13,7 +13,7 @@ Socials
 
 Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,git,docker,angular,kubernetes,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,git,docker,angular,kubernetes,py)]
 
 
 
