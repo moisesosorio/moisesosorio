@@ -1,11 +1,20 @@
-# Hi 👋, I am Data & Software Engineering 
+👋 Hello Everybody!!
 
 I am Senior Data & Software Engineer with over 12 years of building analytical processes. My work experience has built in USA, Spain, Peru and Australia.
 
 I 
 
+Languales and Tools
+
+
+
 
 Socials
+
+Skills
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+
 
 
 <!--
