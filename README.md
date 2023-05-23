@@ -6,7 +6,7 @@ I
 
 Languales and Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=js,html,git,docker,angular,kubernetes,py)
+![My Skills](https://skills.thijs.gg/icons?i=py,idea,kubernetes,git,postgres,scala,js,html,docker,angular)
 
 
 Socials
