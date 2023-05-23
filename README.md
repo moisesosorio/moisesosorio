@@ -6,14 +6,14 @@ I
 
 Languales and Tools
 
-
+![My Skills](https://skills.thijs.gg/icons?i=js,html,git,docker,angular,kubernetes,py)
 
 
 Socials
 
 Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,git,docker,angular,kubernetes,py)]
+
 
 
 
