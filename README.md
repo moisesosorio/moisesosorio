@@ -7,6 +7,18 @@
 - :skier: My brain is often hungry to get more knowledge of everything, keep learning is my weakness
 
 ---
+
+```mermaid
+flowchart LR
+    subgraph DELIVERY
+        A["External Supplier"]--Site Delivery-->B["Site (Manufacturing OR Store)"]
+        B["Site (Manufacturing OR Store)"]--Dispatch & Site Delivery-->C["Site (Surface)"]
+        A["External Supplier"]--Site Delivery-->C["Site (Surface)"]
+    end
+        C["Site (Surface)"]--Bulk Delivery-->Customer
+```
+
+---
  :boom: Languales and Tools
 
 ![My Skills](https://skills.thijs.gg/icons?i=py,idea,kubernetes,git,postgres,scala,js,html,docker,angular)
