@@ -19,6 +19,21 @@ flowchart LR
 ```
 
 ---
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+---
  :boom: Languales and Tools
 
 ![My Skills](https://skills.thijs.gg/icons?i=py,idea,kubernetes,git,postgres,scala,js,html,docker,angular)
