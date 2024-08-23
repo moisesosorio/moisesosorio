@@ -1,19 +1,19 @@
-👋 Hello Everybody!!
+👋 Hello Everyone!!, I will share something about me:
 
 - :soccer: I really love sports, soccer, surf, pool, pingpong, etc, and I love to write code.
-- :surfing_man: I currently developing some courses such as Apache Spark, Apache NiFi etc
+- :surfing_man: I develop my website from scratch while I was learning React.
 - :skier: My strong coding skills are Scala and Python. Also, I like the data, I eat Data. jejej
 - :skier: I am passionate about charting and graphs. Understand the charts then convert it to an actual fact, love it!
-- :skier: My brain is often hungry to get more knowledge of everything, keep learning is my weakness
+- :skier: My brain is often hungry to get more knowledge of everything, keep learning is my weakness.
 
 ---
 
 ```mermaid
 flowchart LR
     subgraph DELIVERY
-        A["External Supplier"]--Site Delivery-->B["Site (Manufacturing OR Store)"]
-        B["Site (Manufacturing OR Store)"]--Dispatch & Site Delivery-->C["Site (Surface)"]
-        A["External Supplier"]--Site Delivery-->C["Site (Surface)"]
+        A["Get Data"]---->B["Process Data"]
+        B["Process Data"]---->C["Show Results"]
+        B["Process Data"]---->D["Analitycs"]
     end
         C["Site (Surface)"]--Bulk Delivery-->Customer
 ```
