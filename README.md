@@ -20,17 +20,19 @@ flowchart LR
 
 ---
 
+# I have summarised many code lines to express my daily feelings through code
+
 ```python
-import foobar
+import pandas as pd
 
-# returns 'words'
-foobar.pluralize('word')
+# read or get data
+df = pd.Dataframe(Random_dataframe)
 
-# returns 'geese'
-foobar.pluralize('goose')
+# aggregate the data
+group_df = df.groupBy('Column').agg({'quantity','sum'})
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+# reformating the data
+pivot_df = group_df.pivot(index='Column', columns=['quantity'])
 ```
 
 ---
