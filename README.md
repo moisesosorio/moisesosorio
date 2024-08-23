@@ -20,7 +20,7 @@ flowchart LR
 
 ---
 
-# I have summarised many code lines to express my daily feelings through code
+:technologist: I have summarised many code lines to express my daily feelings through code
 
 ```python
 import pandas as pd
