@@ -12,13 +12,13 @@
 ```mermaid
 flowchart LR
     subgraph EVERY DAY
-        A["Get Data"]---->B["Process Data"]
-        B["Process Data"]---->C["Show Results"]
-        B["Process Data"]---->D["Analytics"]
-        D["Analytics"]---->C["Show Results"]
+        A["Get Data"]-->B["Process Data"]
+        B["Process Data"]-->C["Show Results"]
+        B["Process Data"]-->D["Analytics"]
+        D["Analytics"]-->C["Show Results"]
     end
-        C["Show Results"]---->E["Make money"]
-        D["Analytics"]---->E["Make money"]
+        C["Show Results"]-->E["Make money"]
+        D["Analytics"]-->E["Make money"]
 ```
 
 ```python
