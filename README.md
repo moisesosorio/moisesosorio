@@ -16,7 +16,7 @@ flowchart LR
         B["Process Data"]---->C["Show Results"]
         B["Process Data"]---->D["Analitycs"]
     end
-        C["Show Results"]---->Make money
+        C["Show Results"]---->E["Make money"]
 ```
 
 ---
