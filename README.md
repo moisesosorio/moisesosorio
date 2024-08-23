@@ -14,12 +14,11 @@ flowchart LR
     subgraph EVERY DAY
         A["Get Data"]---->B["Process Data"]
         B["Process Data"]---->C["Show Results"]
-        B["Process Data"]---->D["Analitycs"]
+        B["Process Data"]---->D["Analytics"]
     end
         C["Show Results"]---->E["Make money"]
+        D["Analytics"]---->E["Make money"]
 ```
-
----
 
 ```python
 import pandas as pd
