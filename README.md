@@ -7,20 +7,19 @@
 - :brain: My brain is often hungry to get more knowledge of everything, keep learning is my weakness.
 
 ---
+:technologist: I have summarised many code lines to express my daily feelings through code
 
 ```mermaid
 flowchart LR
-    subgraph DELIVERY
+    subgraph EVERY DAY
         A["Get Data"]---->B["Process Data"]
         B["Process Data"]---->C["Show Results"]
         B["Process Data"]---->D["Analitycs"]
     end
-        C["Site (Surface)"]--Bulk Delivery-->Customer
+        C["Show Results"]---->Make money
 ```
 
 ---
-
-:technologist: I have summarised many code lines to express my daily feelings through code
 
 ```python
 import pandas as pd
@@ -34,11 +33,6 @@ group_df = df.groupBy('Column').agg({'quantity','sum'})
 # reformating the data
 pivot_df = group_df.pivot(index='Column', columns=['quantity'])
 ```
-
----
- :boom: Languales and Tools
-
-![My Skills](https://skills.thijs.gg/icons?i=py,idea,kubernetes,git,postgres,scala,js,html,docker,angular)
 
 ---
 :muscle: See my Github stats
